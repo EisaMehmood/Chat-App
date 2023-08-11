@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701091524550",
+    "firebase_url": "https://word-swap-default-rtdb.firebaseio.com",
+    "project_id": "word-swap",
+    "storage_bucket": "word-swap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701091524550:android:71e98c6d54a62affdd0cc7",
+        "android_client_info": {
+          "package_name": "com.app.echat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701091524550-q4g6j9iqagu0sd2860tnfd0s3h6eaurh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApqOxHnRFLYaTSjJz_5JegBiee6yZdbpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701091524550-q4g6j9iqagu0sd2860tnfd0s3h6eaurh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
